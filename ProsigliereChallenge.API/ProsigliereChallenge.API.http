@@ -1,0 +1,6 @@
+@ProsigliereChallenge.API_HostAddress = http://localhost:5079
+
+GET {{ProsigliereChallenge.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
